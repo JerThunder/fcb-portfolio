@@ -21,3 +21,13 @@ ul{
    list-style: none;
     padding: 0;
 }
+
+
+#landing
+{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
